@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mrunali Bind</h1>
 <h3 align="center">A passionate node backend developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunalibind" alt="mrunalibind" /></a> </p>
 
