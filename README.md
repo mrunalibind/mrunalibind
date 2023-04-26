@@ -13,8 +13,7 @@
 
 - 👯 I’m looking to contribute on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [mrunalibind.github.io](mrunalibind.github.io)
-
+- 👨‍💻 All of my projects are available at https://mrunalibind.github.io/
 - 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, Express, MongoDB, Socket.IO**
 
 - 📫 How to reach me **mrunalibind123@gmail.com**
