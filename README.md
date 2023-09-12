@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mrunali-bind-581227221" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="mrunali-bind-581227221" height="30" /></a>
+<a href="https://linkedin.com/in/mrunali-bind-581227221" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="mrunali-bind-581227221" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
